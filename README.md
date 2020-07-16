@@ -1,6 +1,6 @@
-# mern-stack-portfolio
+# React Ecommerce App
 
-This is a project template for mern apps. It lives at https://react-ecommerce-app-mhs.netlify.app
+This is a project template for React Ecommerce App. It lives at https://react-ecommerce-app-mhs.netlify.app
 
 ## Get started
 
