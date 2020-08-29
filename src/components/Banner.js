@@ -29,11 +29,11 @@ const Banner = () => (
                     alt="Third slide"
                 />
             </Carousel.Item>
-	    <Carousel.Item>
+            <Carousel.Item>
                 <img
                     className="w-100"
                     src={p4}
-                    alt="Third slide"
+                    alt="Fourth slide"
                 />
             </Carousel.Item>
         </Carousel>
